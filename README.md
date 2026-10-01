@@ -12,6 +12,8 @@ Custom styling using CSS
 Technologies Used
 HTML5
 CSS3
+
+
 Project Structure
 Netflix-Landing-Page/
 │
@@ -20,6 +22,8 @@ Netflix-Landing-Page/
 ├── images/
 ├── videos/
 └── README.md
+
+
 What I Learned
 Structuring webpages using semantic HTML
 Creating responsive layouts with CSS
